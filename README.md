@@ -20,6 +20,8 @@ _ Cadastrar Planos
 _ Armazenar histórico de treinos
 _ Gerar relatórios
 _ Criar treinos
+_ Avaliação do aluno
+_ folha de pagamento
 
 ### Não Funcionais
 _ segurança - toda alteração feita pelo funcionario é registrado no nome dele
@@ -62,5 +64,6 @@ Pagamentos em atrasos
 
 Alunos ativos e inativos - editar e excluir
 
+### Documentos
 
-
+Envio de contrato para cliente (imprimir folha e armazenar)
