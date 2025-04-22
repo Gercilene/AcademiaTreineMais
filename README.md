@@ -7,7 +7,7 @@ Este sistema é voltado para uma academia pequena, para realizar:
 _ a organização dos horários de funcionamento da academia,
 _ a escala do personal trainers,
 _ a lista de alunos matriculados,
-_ os planos de assinatura disponiíveis,
+_ os planos de assinatura disponíveis,
 _ a estruturação de lista de treino para os alunos acessarem.
 
 ## Requisitos
@@ -49,4 +49,18 @@ Tabela de Planos
 Tabela de Treinos
 
 Armazenamento de histórico de treinos
+
+### Avaliação fisica do aluno
+
+Consulta fisica do aluno
+
+### Folha de pagamentos
+
+Pagamentos em dias
+
+Pagamentos em atrasos
+
+Alunos ativos e inativos - editar e excluir
+
+
 
